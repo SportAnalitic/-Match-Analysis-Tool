@@ -53,5 +53,5 @@ A: Predictions are updated daily, with special attention to high-profile matches
 **Q: Can I use this tool on mobile?**  
 A: Yes, all updates and analyses are delivered directly through Telegram, accessible on any device.
 
-**Q: Is there a subscription fee?**  
+**Q: Is there a subscription free?**  
 A: The basic channel is free, but we offer premium features for users seeking advanced insights.
